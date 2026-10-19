@@ -1,0 +1,12 @@
+// Prediction: 5, then 20, then ReferenceError
+
+let score = 10;
+
+{
+  score = 20;
+  let bonus = 5;
+  console.log(bonus);
+}
+
+console.log(score);
+console.log(bonus);

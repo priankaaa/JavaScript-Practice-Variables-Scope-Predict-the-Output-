@@ -1,0 +1,6 @@
+// Prediction: undefined, then Hello
+
+let x;
+console.log(x);
+x = "Hello";
+console.log(x);

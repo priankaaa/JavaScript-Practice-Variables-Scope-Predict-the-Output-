@@ -1,0 +1,8 @@
+// Prediction: ReferenceError
+
+let msg = "outer";
+
+{
+  console.log(msg);
+  let msg = "inner";
+}

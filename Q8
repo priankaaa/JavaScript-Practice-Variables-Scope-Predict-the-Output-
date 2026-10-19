@@ -1,0 +1,8 @@
+// Prediction: m = 1
+
+{
+  var m = 1;
+  let n = 2;
+  const o = 3;
+}
+console.log(m);

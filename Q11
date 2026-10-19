@@ -1,0 +1,16 @@
+// Prediction: 3, then 2, then 1
+
+let level = 1;
+
+{
+  let level = 2;
+
+  {
+    let level = 3;
+    console.log(level);
+  }
+
+  console.log(level);
+}
+
+console.log(level);

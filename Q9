@@ -1,0 +1,10 @@
+// Prediction: Solapur, then Pune
+
+let city = "Pune";
+
+{
+  let city = "Solapur";
+  console.log(city);
+}
+
+console.log(city);

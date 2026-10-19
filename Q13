@@ -1,0 +1,14 @@
+// Prediction: Riya, Asha, Riya
+
+let name = "Riya";
+
+{
+  console.log(name);
+
+  {
+    let name = "Asha";
+    console.log(name);
+  }
+
+  console.log(name);
+}

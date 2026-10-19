@@ -1,0 +1,4 @@
+// Prediction: ReferenceError
+
+console.log(q);
+let q = 10;

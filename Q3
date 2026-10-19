@@ -1,0 +1,5 @@
+// Prediction: undefined, then 5
+
+console.log(p);
+var p = 5;
+console.log(p);

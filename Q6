@@ -1,0 +1,5 @@
+// Prediction: DBMS
+
+var course = "FSD";
+var course = "DBMS";
+console.log(course);

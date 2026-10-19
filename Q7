@@ -1,0 +1,5 @@
+// Prediction: SyntaxError
+
+let subject = "HTML";
+let subject = "CSS";
+console.log(subject);
